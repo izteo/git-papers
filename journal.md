@@ -11,3 +11,7 @@ Dick (1990)
 
 
 If i make changes to the journal here now after the branch thingy
+
+
+Adding some really really cool results
+
