@@ -1,6 +1,1 @@
-Paper
-
-## Introduction
-
-Blah blah blah
-
+Restarting this whole thing
