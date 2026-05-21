@@ -8,3 +8,6 @@ References: This guy that guy who is it
 
 Kakashi (2010)
 Dick (1990)
+
+
+If i make changes to the journal here now after the branch thingy
